@@ -1,7 +1,7 @@
-### [Hey There I am Punit](https://discord.gg/avonbot)
+### [Hey There I am Krishna](https://dsc.gg/resisthq)
 
 <a href="https://discord.com/users/560115112078475266">
-<img src="https://discord.c99.nl/widget/theme-3/765841266181144596.png" alt="Discord"/>
+<img src="[https://discord.c99.nl/widget/theme-3/765841266181144596.png](https://cdn.discordapp.com/attachments/1129748543222059029/1169181557429391360/560115112078475266-1.png?ex=6554782d&is=6542032d&hm=d784aa7f8043bbe7756fcf80038fcdba20491d511f5c533d39dd11fe7c8d0bf3&)" alt="Discord"/>
 </a>
 
 I am a CS Student
