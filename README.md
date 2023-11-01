@@ -21,14 +21,7 @@ Explore my latest project, "Resist," a testament to my dedication and creativity
 ## **Connect with Me**
 
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/560115112078475266)
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.itz.punit._)
-
-## **Support My Work**
-
-Your support is greatly appreciated. Consider donating to help me in my endeavors.
-
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Punit9464)
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_arypton)
+- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]([Your YouTube Channel URL](https://www.youtube.com/@arypton.))
 
 ---
-
-This refined presentation offers a professional and visually appealing layout for your profile, making it easier for others to engage with your content and connect with you.
