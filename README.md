@@ -1,4 +1,4 @@
-### [Hey There I am Punit](https://discord.gg/avonbot)
+### [Hey There I am Arypton](https://discord.gg/avonbot)
 
 <a href="https://discord.com/users/560115112078475266">
 <img src="https://discord.c99.nl/widget/theme-2/560115112078475266.png" alt="Discord"/>
