@@ -1,24 +1,34 @@
-### [Hey There I am Arypton](https://discord.gg/avonbot)
+---
 
-<a href="https://discord.com/users/560115112078475266">
-<img src="https://discord.c99.nl/widget/theme-2/560115112078475266.png" alt="Discord"/>
-</a>
+# **Arypton's Profile**
 
-I am a CS Student
+## **Introduction**
+Hello, I'm Arypton, a dedicated Computer Science student passionate about technology and programming. Welcome to my profile on Discord.
 
-## About Me:
+[Join my Discord Server](https://discord.gg/9qC6gSPj88)
 
-- Learning C and Java currently
-- A person who loves techy things
+![Discord Badge](https://discord.c99.nl/widget/theme-2/560115112078475266.png)
 
-## Projects
-<a href = "https://discord.gg/avonbot">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&animation=blink&height=150&reversal=tru&width=100&theme=gruvbox&section=header&text=Avon&fontColor=15f8ef&fontSize=75&fontAlignY=39" />
-</a>
+## **About Me**
+- I am currently engaged in honing my skills in C and Java.
+- My enthusiasm for all things tech fuels my quest for knowledge and innovation.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/765841266181144596) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.itz.punit._) 
+## **Projects**
+Explore my latest project, "Resist," a testament to my dedication and creativity.
 
+[![Resist Project](https://media.discordapp.net/attachments/1129748543222059029/1169237406067736627/image.png?ex=6554ac30&is=65423730&hm=af714b0e1f66681e0fa63002adb62b72b9733733dc50c81de3cbad074fc83bc7&=&width=1440&height=178)](https://discord.gg/9qC6gSPj88)
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Punit9464) 
+## **Connect with Me**
+
+- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/560115112078475266)
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.itz.punit._)
+
+## **Support My Work**
+
+Your support is greatly appreciated. Consider donating to help me in my endeavors.
+
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Punit9464)
+
+---
+
+This refined presentation offers a professional and visually appealing layout for your profile, making it easier for others to engage with your content and connect with you.
